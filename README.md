@@ -17,3 +17,8 @@
 
 * 📋 <a href="https://docs.google.com/presentation/d/1-ar4gswswlc_CVQb0KD4OnZ85IVcP4fwFAJFxJufRLo/edit#slide=id.gedab296b82_0_25" target="_blank">Presentation</a>
 * 💻 <a href="https://github.com/sinyshapmen/liceum_e-commerce/blob/main/main.ipynb" target="_blank">Code</a>
+
+<h1 align="left">📰 Contributors</h1>
+
+- <a href="https://github.com/sinyshapmen" target="_blank">sinyshapmen</a>
+- <a href="https://github.com/alex-bul" target="_blank">alex-bul</a>
